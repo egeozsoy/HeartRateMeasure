@@ -44,6 +44,7 @@
 		259812D41FBC206B004D81FC = {
 			isa = PBXGroup;
 			children = (
+				251D4DCA1FC24210007D1C21 /* README.md */,
 				259812DF1FBC206B004D81FC /* Heart Rate */,
 				259812DE1FBC206B004D81FC /* Products */,
 			);
@@ -68,7 +69,6 @@
 				259812E71FBC206B004D81FC /* Assets.xcassets */,
 				259812E91FBC206B004D81FC /* LaunchScreen.storyboard */,
 				259812EC1FBC206B004D81FC /* Info.plist */,
-				251D4DCA1FC24210007D1C21 /* README.md */,
 			);
 			path = "Heart Rate";
 			sourceTree = "<group>";
